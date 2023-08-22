@@ -1,0 +1,19 @@
+          
+.popup1 {
+    
+    position: fixed;
+    left: 25%;
+    top: 55%;
+    transform: translate(-50%, -50%);
+    background-color: lightblue;
+    border: 1px solid #ccc;
+    padding: 25px;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+  }
+      
+.popup1 label,
+.popup1 input {
+    display: block;
+    margin-bottom: 10px;
+  }
+     
